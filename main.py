@@ -430,7 +430,7 @@ async def send(text):
 
 
 print(
-    "\nBot ishlamoqda...\nhttps://github.com/izzatbekk/Telegram-vc-bot\n"
+    "\nBot ishlamoqda..."
 )
 
 
